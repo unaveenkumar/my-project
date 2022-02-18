@@ -1,0 +1,5 @@
+name of the files not to track
+
+*.log
+*.txt
+*.xml
